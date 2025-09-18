@@ -176,32 +176,32 @@ The system achieves robust classification performance using sophisticated featur
 - **Multi-modal features**: textual, syntactic, prosodic, semantic
 - **Transformer embeddings**: 768-dimensional Hebrew language representations
 
-### 🔬 **Evaluation Methodology**
+###  **Evaluation Methodology**
 
 - **10-fold cross-validation** for robust performance estimation
 - **Multiple metrics**: Accuracy, Precision, Recall, F1-score
 - **Weighted averaging** for imbalanced classes
 
-## 🔧 Advanced Features
+##  Advanced Features
 
-### 🤖 **Machine Learning Techniques**
+###  **Machine Learning Techniques**
 
 - **ComplementNB**: Robust classifier for imbalanced text data
 - **Feature scaling**: MinMaxScaler for normalized inputs
 - **Variance filtering**: Removes low-variance features
 - **Cross-validation**: K-fold validation for reliable estimates
 
-### 🌐 **Hebrew NLP Integration**
+###  **Hebrew NLP Integration**
 
 - **DictaBERT-tiny-joint**: Specialized Hebrew transformer model
 - **Morphological analysis**: Leveraging Hebrew linguistic structure
 - **Dependency parsing**: Syntactic relationship extraction
 
-### 📊 **Statistical Analysis**
+###  **Statistical Analysis**
 
 - **Lexical diversity**: Type-token ratios and vocabulary richness
 - **Syntactic complexity**: Tree depth and phrase transitions
 - **Prosodic analysis**: Cantillation pattern complexity
 - **Comparative metrics**: Cross-source statistical comparison
 
-#
+
